@@ -1,6 +1,6 @@
 # Thermoptimal Website
 
-This is the code of my first own React project, which is a fairly simple website for a local building services company.
+This is the code of my first own React project, which is a fairly simple website for a local building services company. The live version of the website is available at https://thermoptimal.hu
 
 Some key features:
 - React Router 6 is used for navigation
