@@ -42,7 +42,7 @@ export default function Gallery() {
                 }
               </div>
               <div className="service-btn">
-                <h1 className="service-title" onClick={() => toggleVisible(3)}>{!isVisibleArr[3] ? <i class="fa-solid fa-chevron-right"></i> : <i class="fa-solid fa-chevron-down"></i>} Felújítás</h1>
+                <h1 className="service-title" onClick={() => toggleVisible(3)}>{!isVisibleArr[3] ? <i class="fa-solid fa-chevron-right"></i> : <i class="fa-solid fa-chevron-down"></i>} Korszerűsítés</h1>
                 {isVisibleArr[3] &&
                 <div>
                   <ImageGrid category="felujitas" />
